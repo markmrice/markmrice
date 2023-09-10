@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @markmrice
+- 👋 Hi, I’m Mark Rice @markmrice
 - 👀 I’m interested in web & game development & working in the tech industry
 - 🌱 I’m currently learning Full Stack SWE @ Codecademy & Computing and IT BSc. @ Open University
 - 💞️ I’m looking to collaborate on ...
